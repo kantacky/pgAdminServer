@@ -1,0 +1,8 @@
+# pgAdmin Server
+
+Add ENV before run
+- PGADMIN_DEFAULT_EMAIL
+- PGADMIN_DEFAULT_PASSWORD
+- PGADMIN_LISTEN_PORT
+
+&copy; 2022 Kanta Oikawa
